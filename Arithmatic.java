@@ -13,7 +13,6 @@ class Arithmatic
 	System.out.println("Mul:"+Res);
 	Res=a/b;
 	System.out.println("Div:"+Res);
-	Res=a%b;
-	System.out.println("Mod:"+Res);
+	
 	}
 }
